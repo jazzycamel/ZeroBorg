@@ -571,7 +571,3 @@ printFunction           Function reference to call when printing text, if None "
 
 if __name__=="__main__":
     ZeroBorg.help()
-    #zb=ZeroBorg()
-    #zb.print("Testing ZeroBorg print()")
-    #zb.init()
-    
